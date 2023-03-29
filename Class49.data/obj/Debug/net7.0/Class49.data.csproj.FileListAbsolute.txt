@@ -1,0 +1,12 @@
+C:\Users\fraid\source\repos\Class49\Class49.data\bin\Debug\net7.0\Class49.data.deps.json
+C:\Users\fraid\source\repos\Class49\Class49.data\bin\Debug\net7.0\Class49.data.dll
+C:\Users\fraid\source\repos\Class49\Class49.data\bin\Debug\net7.0\Class49.data.pdb
+C:\Users\fraid\source\repos\Class49\Class49.data\obj\Debug\net7.0\Class49.data.csproj.AssemblyReference.cache
+C:\Users\fraid\source\repos\Class49\Class49.data\obj\Debug\net7.0\Class49.data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fraid\source\repos\Class49\Class49.data\obj\Debug\net7.0\Class49.data.AssemblyInfoInputs.cache
+C:\Users\fraid\source\repos\Class49\Class49.data\obj\Debug\net7.0\Class49.data.AssemblyInfo.cs
+C:\Users\fraid\source\repos\Class49\Class49.data\obj\Debug\net7.0\Class49.data.csproj.CoreCompileInputs.cache
+C:\Users\fraid\source\repos\Class49\Class49.data\obj\Debug\net7.0\Class49.data.dll
+C:\Users\fraid\source\repos\Class49\Class49.data\obj\Debug\net7.0\refint\Class49.data.dll
+C:\Users\fraid\source\repos\Class49\Class49.data\obj\Debug\net7.0\Class49.data.pdb
+C:\Users\fraid\source\repos\Class49\Class49.data\obj\Debug\net7.0\ref\Class49.data.dll

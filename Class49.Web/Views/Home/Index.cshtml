@@ -1,0 +1,26 @@
+﻿@model IndexViewModel
+
+
+<h1 class="alert-heading align-content-lg-center" style="color:darkblue; font-family:Bubbleboddy">List of People</h1>
+<a href="/home/addPerson" class="btn btn-info text-center">Click here to add a person</a>
+<div class="col-6 offset-3">
+    <table class="table table-bordered table-hover">
+        <thead>
+            <tr>
+                <th>First Name</th>
+                <th>Last Name</th>
+                <th>Age</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var p in Model.People)
+            {
+                <tr>
+                    <td>@p.FirstName</td>
+                    <td>@p.LastName</td>
+                    <td>@p.Age</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
